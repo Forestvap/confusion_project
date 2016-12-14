@@ -1,9 +1,7 @@
 {
   "name": "conFusion",
-  "authors": [
-    "Yuan Tao"
-  ],
-  "description": "",
+  "version": "1.0.0",
+  "description": "Website for an awesome restaurant",
   "main": "index.html",
   "moduleType": [],
   "keywords": [
@@ -11,7 +9,10 @@
     "Fusion",
     "Restaurant"
   ],
-  "license": "Mit",
+  "authors": [
+    "Jogesh Muppala"
+  ],
+  "license": "MIT",
   "homepage": "",
   "ignore": [
     "**/.*",
@@ -22,6 +23,10 @@
   ],
   "dependencies": {
     "bootstrap": "~3.3.6",
-    "eonasdan-bootstrap-datetimepicker": "~4.17.37"
+    "font-awesome": "~4.4.0",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "angular-mocks": "~1.4.8"
   }
 }
